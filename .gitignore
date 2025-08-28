@@ -1,0 +1,75 @@
+# .gitignore para proyectos Vivado + Python
+
+# Archivos y carpetas de Vivado
+*.jou
+*.log
+*.str
+*.tcl
+*.xml
+*.html
+*.xpr
+*.xpr.lock
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/
+*.webtalk/
+*.Xil/
+*.vivado/
+*.wdb
+*.wcfg
+*.ltx
+*.bit
+*.bin
+*.mcs
+*.prj
+*.dcp
+*.pb
+*.rpt
+*.tmp
+*.backup
+*.restore
+*.data
+*.db
+*.vitis/
+*.sdk/
+*.sdk.log
+*.sdk.info
+*.sdk.cache
+*.sdk.workspace
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+~$*
+*.swp
+*.swo
+*.bak
+*.tmp
+*.old
+*.orig
+
+# Archivos de dumps y generados
+/dumps/*.txt
+/telescan/*.tlscan
+/output.coe
+
+# Archivos de usuario
+*.user
+*.log
+.vscode/
+
+# No ignores README ni scripts personalizados
+!README.md
+!scripts/
+# Proyecto DMA PCILeech
+
+Guía completa en español.
