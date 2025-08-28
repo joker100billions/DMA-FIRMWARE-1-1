@@ -392,4 +392,4 @@ Creado para el ecosistema **DMN_SHOP** y la comunidad hispana interesada en inve
 Para uso educativo y de investigación. No se recomienda su uso con fines maliciosos.
 
 © 2025 DMN_ENGINE | Demon_Cuba | Todos los derechos reservados.
->>>>>>> aedcbab (Primer commit: Proyecto PCILeech DMA completo)
+
